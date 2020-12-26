@@ -11,7 +11,7 @@ description: |
 
 ## ¿Por qué re-hice mi web con Nuxt?
 
-Aunque algunos ya me conoceis, soy [Marina Aísa](https://twitter.com/MarinaAisa), UX Engineer (diseño y front-end) y actualmente trabajo en [Holaluz](https://www.holaluz.com).
+Aunque algunos ya me conoceis, soy [Denise Herlinveux](https://twitter.com/herlinveaux), UX Engineer (diseño y front-end) y actualmente trabajo en [Holaluz](https://www.holaluz.com).
 
 El pasado año, 2018, estuve muy enfocada en aprender más de JavaScript, la cual era una asignatura pendiente y a la vez aprendí una de sus librerías, [Vue.js](https://vuejs.org/). Al mismo tiempo, en Holaluz, empezamos a utilizar [Nuxt.js](https://nuxtjs.org/), un framework sobre VueJS para rehacer tanto las webs estáticas como las dinámicas (SPA) de la empresa en componentes y poder crear un sistema de diseño con ello.
 
@@ -105,7 +105,7 @@ El loader para archivos Markdown de Webpack que utilizo es: [frontmatter-markdow
 ¿Recuerdas que antes te he hablado que una de mis motivaciones para crear esta web era tener un blog que tuviera una buena performance?
 Con Nuxt lo he conseguido, y aún me queda bastante por optimizar.
 
-Si has llegado hasta aquí seguramente habrás pensado: *"Vaya percal ha montado Marina, si total podía haber hecho un blog en [Medium](https://medium.com/) y ya está"* y justo ahora vas a entender por qué no me gusta Medium.
+Si has llegado hasta aquí seguramente habrás pensado: *"Vaya percal ha montado Denise, si total podía haber hecho un blog en [Medium](https://medium.com/) y ya está"* y justo ahora vas a entender por qué no me gusta Medium.
 
 Además de que escribiendo en Medium **no tienes el control sobre tu blog** como CSS, SEO, añadir funcionalidades, el contenido **lo cedes a Medium**, tiene limitación de artículos leídos... encima, **tienen una performance que deja mucho que desear.**
 
@@ -154,6 +154,6 @@ Para traducir la web en inglés y español utilizo [nuxt-i18n](https://github.co
 
 - Carga de componentes asíncronos de Vue con el ejemplo práctico del mapa que hay en la home.
 
-Pensé en publicar un starter de Nuxt pero siendo realista no tendría tiempo para mantenerlo. Creo que este post explica muy bien cómo hacerlo, pero si te has quedado con alguna duda, siempre puedes contactarme a mi email: [marina@marinaaisa](mailto:marina@marinaaisa.com).
+Pensé en publicar un starter de Nuxt pero siendo realista no tendría tiempo para mantenerlo. Creo que este post explica muy bien cómo hacerlo, pero si te has quedado con alguna duda, siempre puedes contactarme a mi email: [denise@herlinveaux](mailto:dherlinx@telus.net).
 
-Como no tengo comentarios en el blog, me encantaría continuar la conversación en [Twitter](https://twitter.com/MarinaAisa). ¡Todo feedback es bienvenido! Si crees que hay algo que se puede mejorar me ayudarías muchísimo.
+Como no tengo comentarios en el blog, me encantaría continuar la conversación en [Twitter](https://twitter.com/herlinveaux). ¡Todo feedback es bienvenido! Si crees que hay algo que se puede mejorar me ayudarías muchísimo.

@@ -228,5 +228,5 @@ In a real application, `isLoading` variable will be given by the system which im
 
 If you want to create a Skeleton Screen on a background that is not black or white, or you have to give support to IE or Edge, I suggest you [this other solution that uses SVG](http://danilowoz.com/create-vue-content-loader/). It's much more complex, I'm not sure you can do it between different divs and it requires you to use an external package but it's the best alternative I could find.
 
-If you liked this tutorial or the songs in the playlist, you can follow me on [Twitter](https://twitter.com/MarinaAisa) and continue the conversation over there.
+If you liked this tutorial or the songs in the playlist, you can follow me on [Twitter](https://twitter.com/herlinveaux) and continue the conversation over there.
 All feedback is welcome! If you think there is something that can be improved, you would help me a lot.

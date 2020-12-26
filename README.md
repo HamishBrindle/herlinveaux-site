@@ -9,7 +9,7 @@
   Nuxt + Markdown blog starter
 </h1>
 <p align="center">
-  This is not an official project. It's made by <a href="https://marinaaisa.com/">Marina Aísa</a> and you can contribute submitting a pull-request.
+  This is not an official project. It's made by <a href="https://herlinveaux.com/">Denise Herlinveux</a> and you can contribute submitting a pull-request.
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 1.  **Clone this repository.**
 
     ```sh
-    git clone https://github.com/marinaaisa/nuxt-markdown-blog-starter.git
+    git clone https://github.com/herlinveaux/nuxt-markdown-blog-starter.git
     ```
 
 2.  **Start developing.**
@@ -95,4 +95,4 @@
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/marinaaisa/nuxt-markdown-blog-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/herlinveaux/nuxt-markdown-blog-starter)

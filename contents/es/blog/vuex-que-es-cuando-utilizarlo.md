@@ -74,4 +74,4 @@ Este error, como tantos que me he ido encontrando en este proyecto sola, me sirv
 
 Por suerte me dí cuenta de mi error antes de publicar la web y pude cambiar el sistema de importación. Escribí un post sobre cómo hice esta importación dinámica <nuxt-link to="/es/blog/blog-usando-vue-nuxt-markdown"> aquí</nuxt-link>.
 
-Como no tengo comentarios en el blog, me encantaría continuar la conversación en [Twitter](https://twitter.com/MarinaAisa). ¡Todo feedback es bienvenido! Si crees que hay algo que se puede mejorar me ayudarías muchísimo.
+Como no tengo comentarios en el blog, me encantaría continuar la conversación en [Twitter](https://twitter.com/herlinveaux). ¡Todo feedback es bienvenido! Si crees que hay algo que se puede mejorar me ayudarías muchísimo.

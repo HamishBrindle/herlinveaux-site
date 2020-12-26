@@ -1,7 +1,13 @@
 <template>
   <div class="page-index">
-    <div class="container">
-      <BlogSection :blogs="blogs"/>
+    <div class="container container--center hero">
+      <span class="icon">👪</span>
+      <h1 class="title">
+        Herlinveaux
+      </h1>
+      <h3 class="subtitle">
+        Under Construction - we'll have this beauty up in no time!
+      </h3>
     </div>
   </div>
 </template>
@@ -44,7 +50,7 @@
         },
         script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
         meta: [
-          { name: "author", content: "Marina Aisa" },
+          { name: "author", content: "Andrew Brindle" },
           { name: "description", property: "og:description", content: this.$t('indexPageHead.description'), hid: "description" },
           { property: "og:title", content: this.$t('indexPageHead.title') },
           { property: "og:image", content: this.ogImage },
@@ -61,3 +67,23 @@
     }
   }
 </script>
+
+<style lang="scss">
+.hero {
+  background: #094D92;
+  color: rgb(255, 248, 248);
+
+  .icon {
+    font-size: 10rem;
+  }
+
+  .title {
+    font-size: 5rem;
+    margin: 0 0 1rem;
+  }
+
+  .subtitle {
+    opacity: 0.5;
+  }
+}
+</style>
